@@ -4,7 +4,7 @@ Laboratorio N°1 Redes de Computadores
 ## *Nota: 7.0*  
   
 * Francisco Rousseau  
-* 19.567.782-4
+
 
 
 ## Ejecución  
