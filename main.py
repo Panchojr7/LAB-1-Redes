@@ -1,5 +1,5 @@
 '''
-LABORATORIO 3: MODULACION DE SEÃ‘ALES
+LABORATORIO 1: SENALES Y FOURIER
 
 Estudiante: Francisco Rousseau
 Ayudante: Nicole Reyes
